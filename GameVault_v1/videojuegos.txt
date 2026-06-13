@@ -1,0 +1,5 @@
+Mario Kart;Carreras;29990
+Minecraft;Sandbox;24990
+FIFA 24;Deportes;39990
+Zelda;Aventura;49990
+Need For Speed;Carreras;19990
